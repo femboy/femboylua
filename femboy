@@ -1,1 +1,3 @@
---Ye updates--
+	data.version = "2.1.5"
+	data.link = "http://cheatcube.com"
+	data.info = "Added Live updates! Hell yeah, actually it just tells you if you are out of date. But that means it's easy to know if you are out of date."
